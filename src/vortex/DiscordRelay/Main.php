@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace nomadjimbob\MCPEDiscordRelay;
+namespace vortex/DiscordRelay;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
