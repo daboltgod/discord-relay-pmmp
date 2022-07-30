@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/daboltgod/discord-relay-pmmp
+build-by-default: true
+branches:
+- main
+projects:
+  discord-relay-pmmp:
+    path: ""
+...
