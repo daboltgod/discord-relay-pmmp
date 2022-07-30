@@ -1,5 +1,5 @@
 <?php
-namespace nomadjimbob\MCPEDiscordRelay;
+namespace vortex/DiscordRelay;
 
 use pocketmine\scheduler\Task;
 
