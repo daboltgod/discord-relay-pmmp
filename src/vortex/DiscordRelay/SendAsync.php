@@ -1,5 +1,5 @@
 <?php
-namespace nomadjimbob\MCPEDiscordRelay;
+namespace vortex/DiscordRelay;
 
 use pocketmine\scheduler\AsyncTask;
 use pocketmine\Server;
@@ -55,7 +55,7 @@ class SendAsync extends AsyncTask
 
     public function onCompletion(Server $server)
     {
-        $plugin = $server->getPluginManager()->getPlugin('MCPEDiscordRelay');
+        $plugin = $server->getPluginManager()->getPlugin('DiscordRelayPMMP');
         if(!$plugin instanceof Main){
             return;
         }
