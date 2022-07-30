@@ -38,7 +38,7 @@ class Main extends PluginBase implements Listener {
 		}
 		
 		if($this->enabled) {
-			$this->sendToDiscord("MCPEDiscordRelay enabled");
+			$this->sendToDiscord("DiscordRelayPMMP enabled");
 		}
 	}
 	
