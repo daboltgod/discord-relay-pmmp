@@ -1,19 +1,26 @@
 ---
-name: MCPEDiscordRelay
-main: nomadjimbob\MCPEDiscordRelay\Main
+name: DiscordRelayPMMP
+main: daboltgod/discord-relay-pmmp/main
 version: 1.0.10
 api:
-- 3.0.0
-author: Nomadjimbob
+- 4.0.6
+author: DaBoltGod
 description: Send console to a discord server
-website: https://github.com/nomadjimbob/MCPEDiscordRelay
+website: https://github.com/daboltgod/discord-relay-pmmp
 commands:
-  version:
+  drversion:
     description: Version command
-    usage: /version
-    permission: mcpediscordrelay.command.version
+    usage: /drversion
+    permission: mcpediscordrelay.command.drversion
+  drinfo:
+    description: Information Command
+    usage: /drinfo
+    permission: mcpediscordrelay.command.drinfod
 permissions:
-  mcpediscordrelay.command.version:
-    description: Shows the version of the plugin
+  mcpediscordrelay.command.drversion:
+    description: Shows the version info of the plugin
+    default: true
+  mcpediscordrelay.command.drinfo:
+    description: Shows the basic info of the plugin
     default: true
 ...
