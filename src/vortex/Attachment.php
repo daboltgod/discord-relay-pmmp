@@ -1,5 +1,5 @@
 <?php
-namespace nomadjimbob\MCPEDiscordRelay;
+namespace vortex/DiscordRelay;
 
 use pocketmine\Server;
 use pocketmine\utils\Terminal;
