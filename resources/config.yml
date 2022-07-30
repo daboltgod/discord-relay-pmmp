@@ -8,7 +8,7 @@ send_console: false # Send console to Discord
 show_player_events: true # Tell when a player joins/leaves the server
 enable_pings: false # Honor pinging from Minecraft chat in discord
 discord_webhook_title: "DiscordRelayPMMP" # Embed title to use in the webhook [optional]
-discord_webhook_description: "A very useful plugin for moderating pocketmine servers from discord" # Embed description to use in the webhook [optional]
+discord_webhook_description: "A very useful plugin for moderating servers from discord" # Embed description to use in the webhook [optional]
 discord_webhook_color: "#000000" # Embed color to use in the webhook. Hex colors must have hashtag at the start else it will be treated as a number [optional]
-discord_webhook_footer: "Copyright Vortex Systems 2022/23" # Embed footer to use in the webhook [optional]
+discord_webhook_footer: "" # Embed footer to use in the webhook [optional]
 ...
