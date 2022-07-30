@@ -1,5 +1,5 @@
 <?php
-namespace vortex/DiscordRelay;
+namespace src/vortex/DiscordRelay/SendAsync.php;
 
 use pocketmine\scheduler\AsyncTask;
 use pocketmine\Server;
