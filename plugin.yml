@@ -1,6 +1,6 @@
 ---
 name: DiscordRelayPMMP
-main: src/daboltgod/discord-relay-pmmp/main.php
+main: src/daboltgod/discord-relay-pmmp/src/vortex/DiscordRelay/main.php
 version: 1.0.10
 api:
 - 4.0.6
