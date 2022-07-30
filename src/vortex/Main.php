@@ -1,10 +1,4 @@
 <?php
-/*
- * MCPEDiscordRelay
- * Developer: Nomadjimbob
- * Website: https://github.com/nomadjimbob/MCPEDiscordRelay
- * Licensed under GNU GPL 3.0 (https://github.com/nomadjimbob/MCPEDiscordRelay/blob/master/LICENSE)
- */
 declare(strict_types=1);
 
 namespace nomadjimbob\MCPEDiscordRelay;
