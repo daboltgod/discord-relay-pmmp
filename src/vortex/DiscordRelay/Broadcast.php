@@ -1,5 +1,5 @@
 <?php
-namespace vortex/DiscordRelay;
+namespace src/vortex/DiscordRelay/Broadcast.php;
 
 use pocketmine\scheduler\Task;
 
