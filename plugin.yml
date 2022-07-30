@@ -1,6 +1,6 @@
 ---
 name: DiscordRelayPMMP
-main: discord-relay-pmmp/src/vortex/DiscordRelay/main
+main: vortex/DiscordRelay/main
 version: 1.0.10
 api:
 - 4.0.6
