@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace vortex/DiscordRelay;
+namespace src/vortex/DiscordRelay/main.php;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
