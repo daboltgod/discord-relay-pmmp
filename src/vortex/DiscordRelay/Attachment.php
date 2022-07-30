@@ -1,5 +1,5 @@
 <?php
-namespace vortex/DiscordRelay;
+namespace src/vortex/DiscordRelay/Attachment.php;
 
 use pocketmine\Server;
 use pocketmine\utils\Terminal;
